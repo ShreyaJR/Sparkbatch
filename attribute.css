@@ -1,0 +1,9 @@
+/*attribute name */
+[target]{
+    background-color: turquoise;
+}
+
+/*attribute and value= */
+[target="_blank"]{
+    background-color: yellow
+}
